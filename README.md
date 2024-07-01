@@ -18,7 +18,7 @@ This is my submission for [Belajar Membuat Aplikasi Web dengan React](https://ww
 
 - Clone repo
 ```
-git clone https://github.com/rmalan/personal-notes
+git clone https://github.com/rafizeazy/personal-notes
 ```
 - Install dependencies
 ```
